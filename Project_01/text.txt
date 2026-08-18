@@ -1,0 +1,18 @@
+//Rest Api JSON based
+
+
+GET /user  List all users ====DONE HTML page return
+GET /api/user  List all users ====DONE JSON RETURN
+
+
+///Dynamic Path
+GET /api/users/1   get the user with id 1    ///Done
+ 
+GET /api/users/1   get the user with id 2    ///Done
+
+POST /api/users  create new user
+
+PATCH /api/users/id  edit user with id
+
+DELETE /api/users/1  delete the user with id 1
+

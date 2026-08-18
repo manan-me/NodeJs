@@ -1,0 +1,12 @@
+
+{Date.now()}: /users: GET
+{Date.now()}: /api/users: GET
+{Date.now()}: /api/users/6a7bdc1056a375c066f2cb0e%0A: PATCH
+{Date.now()}: /api/users/6a7bdc1056a375c066f2cb0e: PATCH
+{Date.now()}: /api/users/6a7bd878d713cd46f038bef4: GET
+{Date.now()}: /api/users: GET
+{Date.now()}: /api/users/6a7bd9eeefe130d7e2c10692: GET
+{Date.now()}: /api/users/6a7bd9eeefe130d7e2c10692: DELETE
+{Date.now()}: /api/users: GET
+{Date.now()}: /api/users: POST
+{Date.now()}: /api/users/6a7d167ccb995e6368c394fe: GET

@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Doing Node Js Projects",
+  "homepage": "https://github.com/manan-me/NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/manan-me/NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manan-me/NodeJs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node \"01 Hello World/hello.js\""
+  }
+  
+}

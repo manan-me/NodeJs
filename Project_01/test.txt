@@ -1,0 +1,7 @@
+//Mongoose
+
+
+scheema    --  define the structure
+        schema -- model
+        model -- we do CRUD operations
+        

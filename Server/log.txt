@@ -1,0 +1,27 @@
+//Version
+ ^5.2.1
+
+ 1st ->5
+ 2nd ->2
+ 3rd ->1
+
+
+3rd => minor fixes (last part )   optional update
+
+2nd Part => Recomended bug fixes (security essential)
+Latest  5.3.1
+
+
+1st => Major Update /Breaking Update
+
+^5.2.1   mans you can update version witin limit og  5.2.1< and <6.0.0
+
+
+~ means only change last 3rd only
+
+
+
+
+
+
+
